@@ -1,0 +1,15 @@
+[package]
+name = "p2"
+version = "0.1.0"
+authors = ["Mike Trinkala <trink@acm.org>"]
+description = "The P2 algorithm for dynamic calculation of quantiles and histograms"
+repository = "https://github.com/trink/p2.git"
+homepage = "https://github.com/trink/p2.git"
+documentation = "http://trink.github.io/p2/"
+readme = "README.md"
+license = "MPLv2.0"
+categories = ["Data structures"]
+keywords = ["histograms", "quantiles", "analytics", "statistics", "sampling"]
+
+[dependencies]
+simple-error = "0.1"
