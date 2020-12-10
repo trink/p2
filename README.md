@@ -11,7 +11,7 @@ dynamic calculation of quantiles and histograms without storing observation.
 ## Installation
 
 ```
-cargo install --git https://github.com/trink/parquetfmt
+cargo install --git https://github.com/trink/p2
 
 ```
 ## Usage
